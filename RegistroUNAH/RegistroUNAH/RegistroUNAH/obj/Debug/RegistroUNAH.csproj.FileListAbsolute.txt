@@ -1,0 +1,15 @@
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\bin\Debug\RegistroUNAH.exe.config
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\bin\Debug\RegistroUNAH.exe
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\bin\Debug\RegistroUNAH.pdb
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.csprojResolveAssemblyReference.cache
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.Properties.Resources.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.csproj.GenerateResource.Cache
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.exe
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.pdb
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.FrmLogin.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.frmPrincipal.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.frmMostrarClases.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.frmAgregarClases.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.frmDeleteNots.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.frmDialogPeriodo.resources
+C:\Users\ALFA&OMEGASYSTEMS\Dropbox\IS-701\RegistroUNAH\RegistroUNAH\RegistroUNAH\obj\Debug\RegistroUNAH.frmPronosticoAprobacion.resources
